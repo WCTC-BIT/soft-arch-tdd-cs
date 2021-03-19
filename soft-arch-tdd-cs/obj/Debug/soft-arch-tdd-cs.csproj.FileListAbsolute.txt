@@ -1,0 +1,9 @@
+C:\Users\moogi\RiderProjects\soft-arch-tdd-cs\soft-arch-tdd-cs\bin\Debug\soft_arch_tdd_cs.dll
+C:\Users\moogi\RiderProjects\soft-arch-tdd-cs\soft-arch-tdd-cs\bin\Debug\soft_arch_tdd_cs.pdb
+C:\Users\moogi\RiderProjects\soft-arch-tdd-cs\soft-arch-tdd-cs\bin\Debug\nunit.framework.dll
+C:\Users\moogi\RiderProjects\soft-arch-tdd-cs\soft-arch-tdd-cs\bin\Debug\nunit.framework.xml
+C:\Users\moogi\RiderProjects\soft-arch-tdd-cs\soft-arch-tdd-cs\obj\Debug\soft-arch-tdd-cs.csprojAssemblyReference.cache
+C:\Users\moogi\RiderProjects\soft-arch-tdd-cs\soft-arch-tdd-cs\obj\Debug\soft-arch-tdd-cs.csproj.CoreCompileInputs.cache
+C:\Users\moogi\RiderProjects\soft-arch-tdd-cs\soft-arch-tdd-cs\obj\Debug\soft-arch-tdd-cs.csproj.CopyComplete
+C:\Users\moogi\RiderProjects\soft-arch-tdd-cs\soft-arch-tdd-cs\obj\Debug\soft_arch_tdd_cs.dll
+C:\Users\moogi\RiderProjects\soft-arch-tdd-cs\soft-arch-tdd-cs\obj\Debug\soft_arch_tdd_cs.pdb
